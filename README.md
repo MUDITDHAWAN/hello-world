@@ -1,2 +1,3 @@
 # hello-world
-first
+first time
+getting started
